@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&display=swap');
+
+* {
+    background-color: #E4FAFB;
+    font-family: 'Lato', sans-serif;;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 10px;
+    
+}
+
+#title h1 {
+    color: #063E61;
+    font-size: 30px;
+
+}
+
+.nome_completo {
+    width: 300px;
+}
+
+input {
+    margin: 2px;
+    padding: 4px;
+    width: 200px;
+    box-shadow: 1px 1px 1px #000000;
+}
+
+input:hover {
+    background-color: #69CBCF;
+    color: whitesmoke;
+}
+
+button:hover {
+    background: #519B9E;
+}
+
+li {
+    list-style: none;
+}
+
+li:hover {
+    color: black;
+    font-size: 30px;
+}
+ 
+ 
+
